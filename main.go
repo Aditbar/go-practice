@@ -1,4 +1,4 @@
-package miniChallange3
+package main
 
 import (
 	"fmt"
